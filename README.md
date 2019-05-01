@@ -55,6 +55,6 @@ However, we do see great possibilities in a more widespread rollout, based on li
 
 - [Using Social Sensors for Detecting Power Outages in the Electrical Utility Industry](http://people.stern.nyu.edu/kbauman/research/papers/2015_KBauman_WITS.pdf) 
 - [Blackout Tracker Annual Reports](https://switchon.eaton.com/plug/blackout-tracker) - We reviewed reports from 2014-2018
-- [Flickr Geo API Explorer](https://www.flickr.com/places/info/1)
+- [The Top 10 Largest U.S. Cities by Population](https://www.flickr.com/places/info/1)
 - [Wikipedia: List for 100 K to 1000 K Temperatures](https://en.wikipedia.org/wiki/Orders_of_magnitude_(temperature)#Detailed_list_for_100_K_to_1000_K) 
 - [Wikipedia: Rain Intensity](https://en.wikipedia.org/wiki/Rain#Intensity)
