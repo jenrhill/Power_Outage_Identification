@@ -16,11 +16,11 @@ This project was completed in cooperation with [General Assembly](https://genera
 
 ### Project Files
 
-Here is the workflow order to follow when running through the notebooks:
+Here is the workflow order to follow when running through the notebooks, which can be found in the [code folder](./code):
 
-- [1_Data_Collection_and_EDA.ipynb](./1_Data_Collection_and_EDA.ipynb)
-- [2_Preprocessing_and_Word2Vec_Model.ipynb](./2_Preprocessing_and_Word2Vec_Model.ipynb)
-- [3_Outage_Map_and_Next_Steps.ipynb](./3_Outage_Map_and_Next_Steps.ipynb)
+- [1_Data_Collection_and_EDA.ipynb](./code/1_Data_Collection_and_EDA.ipynb)
+- [2_Preprocessing_and_Word2Vec_Model.ipynb](./code/2_Preprocessing_and_Word2Vec_Model.ipynb)
+- [3_Outage_Map_and_Next_Steps.ipynb](./code/3_Outage_Map_and_Next_Steps.ipynb)
 
 ---
 
