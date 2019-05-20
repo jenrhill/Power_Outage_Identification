@@ -2,7 +2,7 @@
 
 ### Problem Statement 
 
-Utilities’ Outage Management Systems (OMS) has been rolling out new smart grid technologies to supplement traditional methods for detecting and reporting on power outages. However, the new technologies won’t be completely rolled out until 2030.[1](http://people.stern.nyu.edu/kbauman/research/papers/2015_KBauman_WITS.pdf) We will build a tool to help supplement these efforts while the new technologies are being rolled out. Our tool will use Twitter combined with weather data to help identify and report on likely locations of legitimate power outages using Natural Language Processing and Word2Vec. Our metric to evaluate will be cosine similarity.
+Utilities’ Outage Management Systems (OMS) has been rolling out new smart grid technologies to supplement traditional methods for detecting and reporting on power outages. However, the new technologies won’t be completely rolled out until 2030.[1](http://people.stern.nyu.edu/kbauman/research/papers/2015_KBauman_WITS.pdf) We will build a tool to help supplement these efforts while the new technologies are being rolled out. Our tool will use Twitter combined with weather data to help identify and report on likely locations of legitimate power outages using Natural Language Processing. Our metric to evaluate will be cosine similarity.
 
 **Team Members**
 
